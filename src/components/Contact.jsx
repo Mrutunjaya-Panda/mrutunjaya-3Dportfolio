@@ -32,8 +32,8 @@ const Contact = () => {
 
     emailjs
       .send(
-        "service_9gvq101",
-        "template_49jw5yq",
+        "service_hg6nmcb",
+        "template_y5qna1g",
         {
           from_name: form.name,
 
@@ -41,7 +41,7 @@ const Contact = () => {
 
           message: form.message,
         },
-        "3lDtCP31mFt_52s7F"
+        "h8TyZBWTbHP_xlk8Q"
       )
       .then(
         () => {

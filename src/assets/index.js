@@ -1,5 +1,5 @@
 const logo =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/Swastik_Yadav_logo.png?updatedAt=1750349700579";
+  "https://ik.imagekit.io/fxh0q66ou/Portfolio%20Studio%20Logo2.svg?updatedAt=1750349700579";
 const backend =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/backend.png?updatedAt=1749961127387";
 const creator =
@@ -19,8 +19,8 @@ const css =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/css.png?updatedAt=1749961104488";
 const docker =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/docker.png?updatedAt=1749961103144";
-const figma =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/figma.png?updatedAt=1749961103288";
+const canva =
+  "https://ik.imagekit.io/fxh0q66ou/Canva-icon.png?updatedAt=1749961103288";
 const git =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/git.png?updatedAt=1749961104346";
 const html =
@@ -33,14 +33,17 @@ const nodejs =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/nodejs.png?updatedAt=1749961104709";
 const reactjs =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/reactjs.png?updatedAt=1749961105057";
-const redux =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/redux.png?updatedAt=1749961111710";
+// const redux =
+//   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/redux.png?updatedAt=1749961111710";
+const bootstrap = "https://ik.imagekit.io/fxh0q66ou/bootstrap.png";
 const tailwind =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/tailwind.png?updatedAt=1749961111586";
 const typescript =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/typescript.png?updatedAt=1749961112627";
 const threejs =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tech/threejs.svg?updatedAt=1749961112674";
+
+const java = "https://ik.imagekit.io/fxh0q66ou/java-icon.svg";
 
 const meta =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/company/meta.png?updatedAt=1749961112288";
@@ -53,13 +56,14 @@ const freelance =
   "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/company/images.png?updatedAt=1750261804051";
 
 const macbookpro =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/MacbookPro_TGyn1EY09X.png?updatedAt=1750225807061";
+  "https://ik.imagekit.io/fxh0q66ou/Movie%20Recommendation.png?updatedAt=1750225807061";
 const falverra =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/Screenshot%202025-06-21%20015159.png?updatedAt=1750451051537";
+  "https://ik.imagekit.io/fxh0q66ou/seat-booking.png?updatedAt=1750451051537";
 const tripguide =
-  "https://ik.imagekit.io/bqzlidc77g/my%20portfolio/tripguide.png?updatedAt=1749961172334";
+  "https://ik.imagekit.io/fxh0q66ou/tic-tac-toe%20game.png?updatedAt=1749961172334";
 
 export {
+  java,
   logo,
   backend,
   creator,
@@ -70,14 +74,14 @@ export {
   close,
   css,
   docker,
-  figma,
+  canva,
   git,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
+  bootstrap,
   tailwind,
   typescript,
   threejs,

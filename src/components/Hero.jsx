@@ -7,7 +7,7 @@ const Hero = () => {
   return (
     <section className="relative w-full   h-screen mx-auto">
       <div
-        className={`${styles.paddingX} inset-0 sm:top-[70px] top-[90px] absolute max-w-7xl mx-auto flex flex-row items-start gap-5`}
+        className={`${styles.paddingX} inset-0 sm:top-[105px] top-[125px] absolute max-w-7xl mx-auto flex flex-row items-start gap-5`}
       >
         <div className="flex flex-col justify-center items-center mt-5">
           <div className="w-5 h-5 rounded-full bg-[#915eff]"></div>
@@ -15,11 +15,11 @@ const Hero = () => {
         </div>
         <div>
           <h1 className={`${styles.heroHeadText} text-white `}>
-            Hi, I'm <span className="text-[#915eff]">Swastik</span>
+            Hi, I'm <span className="text-[#915eff]">Mrutunjaya</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white`}>
-            i develop 3d visuals, user <br className="sm:block hidden" />{" "}
-            interfaces and web applications
+            {/* I'm a full-stack developer, building interactive <br className="sm:block hidden" /> web applications with a focus on user experience. */}
+            I’m a Computer Science undergrad, who loves the challenge of blending deep-rooted engineering with the limitless potential of Generative AI.
           </p>
         </div>
       </div>

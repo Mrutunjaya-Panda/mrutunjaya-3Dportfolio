@@ -25,12 +25,12 @@ const Navbar = () => {
             src={`${logo}${logo.includes("?") ? "&" : "?"}tr=f-auto`}
             alt="logo"
             loading="lazy"
-            className="w-16 object-contain "
-            width={64}
-            height={64}
+            className="w-28 object-contain mr-[-0.8rem]"
+            width={82}
+            height={82}
           />
           <p className="text-white text-[17px] font-semibold cursor-pointer">
-            <span className="sm:block  font-bold">Swastik</span> | Yadav
+            <span className="sm:block  font-bold">Mrutunjaya</span> | Panda
           </p>
         </Link>
 
